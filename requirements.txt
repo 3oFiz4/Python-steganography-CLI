@@ -1,6 +1,6 @@
 argparse
 pillow
-tkinter
+tk
 rich
 numpy
 time
