@@ -1,0 +1,7 @@
+argparse
+PIL
+tkinter
+rich
+numpy
+time
+os
