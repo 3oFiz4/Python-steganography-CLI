@@ -44,9 +44,19 @@ cd Python-steganography-CLI
 pip install -r requirements.txt
 ```
 
-4. **Run imgcrypt.bat:**
+5. **Navigate to the Project's source:**
+```bash
+cd source
+```
+
+6. **Run imgcrypt.bat:**
 ```bash
 imgcrypt -h 
+```
+
+If it doesn't work, run this instead
+```bash
+python run.py -h
 ```
 
 ## 🤸‍♀️ Exercise:
@@ -58,6 +68,10 @@ Your target is to decode a file in `exercise/Image2Image.example/Final image (wi
 2. In your CMD, run this command line.
 ```bash
 imgcrypt -i -d -o "Decoded image (you can change this whatever you want)"
+```
+or
+```bash
+python run.py -i -d -o "Decoded image (you can change this whatever you want)"
 ```
 3. And then choose the target file, and then wait!
 ![Alt text](assets/image2imageTutorialPick1.png)
@@ -72,5 +86,9 @@ Just like in the **Image2Image** section, but this time. I want you to do it by 
   Just like in Image2Image. Just run this bash code! 
   ```bash
   imgcrypt -t -d -o "Decoded text"
+  ```
+  or
+  ```bash
+  python run.py -i -d -o "Decoded image (you can change this whatever you want)"
   ```
 </details>
