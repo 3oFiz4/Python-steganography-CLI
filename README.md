@@ -9,7 +9,7 @@ And if you still don't know what it does. Why don't you have a try? It's really 
 ## ⁉ What's Inside?
 - **Steganography tool:** This Python script allows you to combine an image with other image, or simply, hide a piece of text within an image. Often used for sharing something in a way that is not evident to human inspection.
 
-![Thumb](thumb1.png)
+![](assets/thumb1.png)
 
 ## 🚀 How to Use?
 **Imgcrypt.bat**
