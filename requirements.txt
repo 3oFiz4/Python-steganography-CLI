@@ -3,5 +3,3 @@ pillow
 tk
 rich
 numpy
-time
-os
